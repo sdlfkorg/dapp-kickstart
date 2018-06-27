@@ -26,3 +26,6 @@ The user can get some ehter from https://faucet.rinkeby.io for test.
 2. install: `npm install`
 3. run server: `npm run devnext`
 4. browsing the page on `localhost:3000`
+
+# Liscense:
+This project is based on Stephen Grider's [project](https://github.com/StephenGrider/EthereumCasts).
