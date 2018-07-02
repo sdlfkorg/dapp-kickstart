@@ -1,6 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 import Header from './Header';
+import Footer from './Footer';
 import { Container } from 'semantic-ui-react';
 
 export default (props) => {
@@ -11,7 +12,7 @@ export default (props) => {
 			</Head>
 			<Header/>
 			{props.children}
-			<h1>Here will be a footer</h1>
+			
 		</Container>
 	);	
 }
